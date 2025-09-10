@@ -10,7 +10,7 @@ It includes server, web UI, PostgreSQL and Agent2. We add SNMP hosts (R1 and SW-
 ## 📌 What you get
 
 - **R1** and **SW-L3** monitored over **SNMP**  
-  ![SNMP Agents up](images/agente_snmp_activos.png)
+  ![SNMP Agents up](images/agentes_snmp_activos.png)
 - A dashboard with **CPU and Memory** for R1 (easy to clone for SW-L3)  
   ![CPU, RAM R1](images/cpu_ram_r1.png)
 
