@@ -140,7 +140,7 @@ Add the correct static route (example above) and verify your host-only network/f
 .
 ├── docker-compose.yml
 ├── .env.example
-├── docs/
+├── images/
 │   ├── Agentes SNMP activos.png
 │   ├── CPU, RAM R1.png
 │   └── Topologia.png
