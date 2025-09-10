@@ -3,7 +3,7 @@
 A small lab that monitors Cisco devices (IOSv / IOSvL2 in GNS3) using **Zabbix 7 LTS on Docker**.  
 It includes server, web UI, PostgreSQL and Agent2. We add SNMP hosts (R1 and SW-L3) and a dashboard with **CPU / Memory / Traffic**.
 
-![Topology](images/Topologia.png)
+![Topology](images/topologia.png)
 
 ---
 
